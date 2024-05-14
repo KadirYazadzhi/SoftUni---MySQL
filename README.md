@@ -2,6 +2,8 @@
 
 Welcome to the repository for MySQL course tasks from SoftUni!
 
+<img src="MySQL preview.png">
+
 ## 📖 Introduction
 This repository contains a collection of tasks from the MySQL course at SoftUni. The tasks are organized according to the topics and exercises covered in the course. Each task is thoroughly tested, but if you encounter any issues, feel free to reach out.
 
